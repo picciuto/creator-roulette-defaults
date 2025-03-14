@@ -1,0 +1,199 @@
+[
+  {
+    "name": "Creative Roulette",
+    "categories": [
+      {
+        "name": "Form & Shape",
+        "items": [
+          "Something missing",
+          "Held by tension",
+          "An unexpected void",
+          "Weightless, but heavy",
+          "A shape that collapses",
+          "Pulled in two directions",
+          "More empty than solid",
+          "A shape that wants to escape",
+          "Mid-transformation",
+          "Tension waiting to break",
+          "Grows from its structure",
+          "Made to be misunderstood",
+          "Made to be incomplete",
+          "Not seen all at once",
+          "Almost symmetrical",
+          "Barely holding together",
+          "Form within a form",
+          "Stacked, but unstable",
+          "Feels incomplete",
+          "A shape hiding another",
+          "Asymmetrical but balanced",
+          "Pieces that never quite meet",
+          "Appears unfinished"
+        ]
+      },
+      {
+        "name": "External Element",
+        "items": [
+          "From a thrift store",
+          "A piece of nature",
+          "Found in the trash",
+          "A burned or damaged material",
+          "A fragment of something broken",
+          "A thing with a past life",
+          "Meant for another purpose",
+          "Tiny but meaningful",
+          "An item that doesn't belong",
+          "A piece of fabric or textile",
+          "Rusted metal",
+          "A discarded piece of tech",
+          "Once part of a structure",
+          "A remnant of a past project",
+          "Something that no longer works",
+          "An object with unknown origin",
+          "A thing with unexpected weight",
+          "A material mimicking another"
+        ]
+      },
+      {
+        "name": "Intention & Purpose",
+        "items": [
+          "For someone unaware they need it",
+          "A tool without a purpose",
+          "Meant to be lost & found",
+          "Use once & destroy",
+          "Designed to make someone pause",
+          "Meant to be shared",
+          "A thing that reveals a secret",
+          "Functional & absurd",
+          "Not meant to be understood",
+          "A message hidden in an object",
+          "Solves a problem that isn't real",
+          "Makes simple things harder",
+          "Creates more questions",
+          "Helps people make mistakes"
+        ]
+      },
+      {
+        "name": "Restriction & Constraint",
+        "items": [
+          "Built without measuring",
+          "Only one connection point",
+          "Has to work upside down",
+          "One material, many changes",
+          "Assembled without adhesives",
+          "Looks unstable but isn't",
+          "A structure hiding its function",
+          "Only allowed to remove, not add",
+          "Must balance on one point",
+          "A necessary part is missing",
+          "Built from discarded materials",
+          "Must include a piece that doesn't fit"
+        ]
+      },
+      {
+        "name": "Interaction",
+        "items": [
+          "Meant to be held",
+          "Push to reveal",
+          "Frustrating to open",
+          "Turn around",
+          "Begs to be flipped",
+          "Designed to break",
+          "Has a sound when moved",
+          "Texture invites touch",
+          "Feels unfinished",
+          "Meant to be hated",
+          "Hides something inside"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Woodworking",
+    "categories": [
+      {
+        "name": "Species",
+        "items": [
+          "Oak",
+          "Maple",
+          "Cherry",
+          "Walnut",
+          "Hickory",
+          "Mahogany",
+          "Ash",
+          "Birch",
+          "Teak",
+          "Pine"
+        ]
+      },
+      {
+        "name": "Room",
+        "items": [
+          "Living room",
+          "Dining room",
+          "Kitchen",
+          "Bathroom",
+          "Bedroom",
+          "Entryway",
+          "Office",
+          "Garage/workshop",
+          "Outdoor/patio",
+          "Hallway"
+        ]
+      },
+      {
+        "name": "Complexity",
+        "items": [
+          "Easy",
+          "Medium",
+          "Hard",
+          "Extreme"
+        ]
+      },
+      {
+        "name": "Function",
+        "items": [
+          "Seating",
+          "Storage",
+          "Work surface",
+          "Display",
+          "Lighting",
+          "Decorative",
+          "Dividing space",
+          "Multi-purpose",
+          "Interactive",
+          "Experimental"
+        ]
+      },
+      {
+        "name": "Special Element",
+        "items": [
+          "Hidden storage",
+          "Foldable/collapsible",
+          "No straight lines",
+          "Uses multiple wood species",
+          "Combines wood & another material",
+          "Made from reclaimed wood",
+          "Features inlay or marquetry",
+          "Minimalist with no visible joints",
+          "Inspired by a historical style",
+          "Uses only hand tools"
+        ]
+      },
+      {
+        "name": "Wildcard",
+        "items": [
+          "Must use a found object",
+          "Has to be modular",
+          "Must fit inside a 12\" cube",
+          "Only one type of joint allowed",
+          "Inspired by a childhood memory",
+          "Design must incorporate a curve",
+          "Has to include movement",
+          "Built using only offcuts/scraps",
+          "Looks like something it's not",
+          "Should tell a story"
+        ]
+      }
+    ]
+  }
+] 
